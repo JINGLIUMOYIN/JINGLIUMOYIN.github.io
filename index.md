@@ -2,7 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/JINGLIUMOYIN/JINGLIUMOYIN.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+你将可以通过这个[网页](https://github.com/JINGLIUMOYIN/JINGLIUMOYIN.github.io/edit/master/index.md)来设计你的网页。
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+在这里[GitHub](https://jekyllrb.com/)你能。。。 我暂时还不知道能干什么。
 
 ### Markdown
 
